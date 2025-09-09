@@ -42,7 +42,7 @@ export const Navbar = () => {
             <div className="flex items-center gap-4 text-sm text-muted-foreground">
               <div className="flex items-center gap-1">
                 <Phone className="h-4 w-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>+92 030012345678</span>
               </div>
             </div>
             <Button className="accent-gradient hover:accent-hover transition-smooth">
@@ -105,7 +105,7 @@ export const Navbar = () => {
             <div className="px-3 py-2 space-y-2">
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Phone className="h-4 w-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>+92 030012345678</span>
               </div>
               <Button className="w-full accent-gradient hover:accent-hover transition-smooth">
                 Book Now
